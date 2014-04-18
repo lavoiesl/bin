@@ -1,0 +1,1 @@
+gist/wmc-clone/wmc-open.sh
