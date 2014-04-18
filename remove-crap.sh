@@ -1,0 +1,1 @@
+gist/remove-crap/remove-crap.sh

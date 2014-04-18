@@ -1,0 +1,7 @@
+#!/bin/sh
+id=$HOME/.ssh/id_dsa
+ssh="$@"
+ssh-copy-id -i $id $ssh
+ssh $ssh "uniq .ssh/authorized_keys > _TMP_AUTH_; cat _TMP_AUTH_ > .ssh/authorized_keys; rm _TMP_AUTH_"
+rsync -r ~/.gitconfig ~/.bashrc ~/.bash_aliases ~/.vimrc ~/.vim ~/.screenrc ~/.tmux.conf ~/.zer0prompt $ssh:.
+scp ~/.ssh/config $ssh:.ssh/
