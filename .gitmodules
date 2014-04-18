@@ -3,34 +3,34 @@
 	url = https://gist.github.com/11023856.git
 [submodule "gist/canonical-url"]
 	path = gist/canonical-url
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/11022278.git
 [submodule "gist/genpasswd"]
 	path = gist/genpasswd
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/11023640.git
 [submodule "gist/list-filetypes"]
 	path = gist/list-filetypes
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/11024316.git
 [submodule "gist/mac-service"]
 	path = gist/mac-service
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/6160897.git
 [submodule "gist/mysqldump"]
 	path = gist/mysqldump
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/11022667.git
 [submodule "gist/optimize-images"]
 	path = gist/optimize-images
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/11024067.git
 [submodule "gist/remove-crap"]
 	path = gist/remove-crap
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/11023700.git
 [submodule "gist/video-infos"]
 	path = gist/video-infos
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/11023566.git
 [submodule "gist/wmc-clone"]
 	path = gist/wmc-clone
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/3867674.git
 [submodule "gist/wordpress-change-url"]
 	path = gist/wordpress-change-url
-	url = https://gist.github.com/11023856.git
+	url = https://gist.github.com/2227920.git
 [submodule "gist/convert-to-utf8"]
 	path = gist/convert-to-utf8
-	url = https://gist.github.com/11052359
+	url = https://gist.github.com/11052359.git
