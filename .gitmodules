@@ -31,3 +31,6 @@
 [submodule "gist/wordpress-change-url"]
 	path = gist/wordpress-change-url
 	url = https://gist.github.com/11023856.git
+[submodule "gist/convert-to-utf8"]
+	path = gist/convert-to-utf8
+	url = https://gist.github.com/11052359
