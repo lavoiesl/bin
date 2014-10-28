@@ -1,9 +1,0 @@
-#!/bin/bash
-i="$1"
-o="$2"
-resize="$3"
-[ -n "$resize" ] && resize="-resize $resize";
-
-convert -dither FloydSteinberg -colors 256 $resize "$i" PNG8:"$o";
-optipng -o 4 "$o";
-advpng -z4 "$o";
