@@ -43,3 +43,6 @@
 [submodule "submodules/osx-socks-proxy"]
 	path = submodules/osx-socks-proxy
 	url = https://gist.github.com/3bd6a07af04a7979a814.git
+[submodule "submodules/favicon"]
+	path = submodules/favicon
+	url = https://gist.github.com/4113857.git
