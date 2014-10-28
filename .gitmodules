@@ -40,3 +40,6 @@
 [submodule "submodules/mysql-drop-tables"]
 	path = submodules/mysql-drop-tables
 	url = https://gist.github.com/90ff27e94a1fd3338112.git
+[submodule "submodules/osx-socks-proxy"]
+	path = submodules/osx-socks-proxy
+	url = https://gist.github.com/3bd6a07af04a7979a814.git
