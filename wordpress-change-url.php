@@ -1,1 +1,1 @@
-gist/wordpress-change-url/wordpress-change-url.php
+submodules/wordpress-change-url/wordpress-change-url.php

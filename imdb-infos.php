@@ -1,1 +1,1 @@
-gist/video-infos/imdb-infos.php
+submodules/video-infos/imdb-infos.php

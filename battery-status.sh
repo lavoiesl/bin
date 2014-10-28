@@ -1,1 +1,1 @@
-gist/battery-status/battery-status.sh
+submodules/battery-status/battery-status.sh

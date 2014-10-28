@@ -1,1 +1,1 @@
-gist/optimize-images/optimize-images.sh
+submodules/optimize-images/optimize-images.sh

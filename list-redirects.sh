@@ -1,1 +1,1 @@
-gist/canonical-url/list-redirects.sh
+submodules/canonical-url/list-redirects.sh

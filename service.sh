@@ -1,1 +1,1 @@
-gist/mac-service/service.sh
+submodules/mac-service/service.sh

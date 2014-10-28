@@ -1,1 +1,1 @@
-gist/remove-crap/remove-crap.sh
+submodules/remove-crap/remove-crap.sh

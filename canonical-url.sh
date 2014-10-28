@@ -1,1 +1,1 @@
-gist/canonical-url/canonical-url.sh
+submodules/canonical-url/canonical-url.sh

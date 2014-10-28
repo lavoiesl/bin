@@ -1,1 +1,1 @@
-gist/video-infos/video-infos.php
+submodules/video-infos/video-infos.php

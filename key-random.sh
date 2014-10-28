@@ -1,1 +1,1 @@
-gist/genpasswd/key-random.sh
+submodules/genpasswd/key-random.sh

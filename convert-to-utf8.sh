@@ -1,1 +1,1 @@
-gist/convert-to-utf8/convert-to-utf8.sh
+submodules/convert-to-utf8/convert-to-utf8.sh

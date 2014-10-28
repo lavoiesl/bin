@@ -1,1 +1,1 @@
-gist/wmc-clone/wmc-open.sh
+submodules/wmc-clone/wmc-open.sh

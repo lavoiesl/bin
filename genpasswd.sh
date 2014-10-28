@@ -1,1 +1,1 @@
-gist/genpasswd/genpasswd.sh
+submodules/genpasswd/genpasswd.sh

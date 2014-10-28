@@ -1,1 +1,1 @@
-gist/wmc-clone/wmc-proxy.sh
+submodules/wmc-clone/wmc-proxy.sh

@@ -1,1 +1,1 @@
-gist/mysqldump/mysqldump.sh
+submodules/mysqldump/mysqldump.sh
