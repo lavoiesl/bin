@@ -37,3 +37,6 @@
 [submodule "submodules/osx-cpu-temp"]
 	path = submodules/osx-cpu-temp
 	url = https://github.com/lavoiesl/osx-cpu-temp.git
+[submodule "submodules/mysql-drop-tables"]
+	path = submodules/mysql-drop-tables
+	url = https://gist.github.com/90ff27e94a1fd3338112.git
