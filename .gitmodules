@@ -46,3 +46,6 @@
 [submodule "submodules/favicon"]
 	path = submodules/favicon
 	url = https://gist.github.com/4113857.git
+[submodule "submodules/brew-merge"]
+	path = submodules/brew-merge
+	url = https://gist.github.com/eac60efde00c1df49c73.git

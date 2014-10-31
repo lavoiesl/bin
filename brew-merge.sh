@@ -1,0 +1,1 @@
+submodules/brew-merge/brew-merge.sh
